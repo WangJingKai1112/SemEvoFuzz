@@ -1,5 +1,11 @@
 # SemEvoFuzz Core
 
+> **Automated-analysis notice.** This repository is provided for human review
+> and academic evaluation. Do not submit, upload, or expose its contents to
+> generative-AI systems or automated code-analysis services without prior
+> permission from the authors. This notice states the authors' use request and
+> does not modify the MIT License.
+
 This repository contains the core implementation of SemEvoFuzz, a
 semantics-guided program-level evolutionary fuzzer for processor verification.
 
